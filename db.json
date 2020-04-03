@@ -6,7 +6,7 @@
             "TennisTournamentTypeID": "WTA",
             "TennisSurfaceID": "Hard",
             "MondayStartDate": "Mar 16 2020",
-            "Courts": [
+            "Courts": {
                 "Center Court": [
                     {
                         "MatchID": 139145,
@@ -53,8 +53,8 @@
                         "MatchTrader": "KO",
                         "MatchNotes": ""
                     }
-                ],
-                "Court 2": [
+            },
+                "Court 2": {
                     {
                         "MatchID": 139148,
                         "MatchDate": "Mar 18 2020",
@@ -71,7 +71,7 @@
                         "MatchNotes": ""
                     }
                 ]
-            ],
+                },
             "TradersScheduled": [
                 "KO",
                 "JA",
@@ -89,7 +89,7 @@
             "TennisTournamentTypeID": "CHL 90",
             "TennisSurfaceID": "Hard",
             "MondayStartDate": "Mar 16 2020",
-            "Courts": [
+            "Courts": {
                 "WN": [
                     {
                         "MatchID": 139136,
@@ -169,7 +169,7 @@
                         "MatchNotes": ""
                     }
                 ]
-            ],
+            },
             "TradersScheduled": [
                 "KO",
                 "JA",

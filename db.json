@@ -53,8 +53,8 @@
                         "MatchTrader": "KO",
                         "MatchNotes": ""
                     }
-            },
-                "Court 2": {
+                ],
+                "Court 2": [
                     {
                         "MatchID": 139148,
                         "MatchDate": "Mar 18 2020",
@@ -71,7 +71,7 @@
                         "MatchNotes": ""
                     }
                 ]
-                },
+            },
             "TradersScheduled": [
                 "KO",
                 "JA",
